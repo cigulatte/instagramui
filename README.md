@@ -8,14 +8,17 @@
 <kbd>
 <img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/home.png" height=400>
 </kbd>
- <kbd> 
-<img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/home2.png" height=400></kbd>
+<kbd> 
+<img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/home2.png" height=400>
+</kbd>
 <kbd>
-<img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/shopping.png" height=400></kbd>
-<kbd><img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/search.png" height=400></kbd>
-  <kbd>
-<img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/postdetail.png" height=400></kbd>
-
+<img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/shopping.png" height=400>
+</kbd>
+<kbd><img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/search.png" height=400>
+</kbd>
+<kbd>
+<img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/postdetail.png" height=400>
+</kbd>
 </div>
 
 # How To Install ?
