@@ -5,7 +5,9 @@
 # Preview
 
 <div>
+<kbd>
 <img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/home.png" height=500>
+</kbd>
 <img src="https://github.com/cigulatte/instagramui/blob/main/src/screenshots/home2.png" height=500>
 </div>
 <div>
