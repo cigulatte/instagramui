@@ -39,8 +39,8 @@ yarn-error.log
 # src
 
 
-#src/components/PostItem.js
-#src/components/Posts.js
+src/components/PostItem.js
+src/components/Posts.js
 
 # BUCK
 buck-out/
